@@ -23,9 +23,9 @@
 
 📞 Контакты и связь:
 • 💬 Telegram для заказов: @POCTUK228
-• 🎮 Discord сервер: @luamods (https://discord.gg/6KAf8HjNSj)
-• 📹 YouTube канал: @luamods (https://youtube.com/@luamods_yt?si=IAgbjkaAHGvwpqoQ)
-• 💻 GitHub: @luamods (https://github.com/luamods)
+• 🎮 Discord сервер: (https://discord.gg/6KAf8HjNSj)
+• 📹 YouTube канал: (https://youtube.com/@luamods_yt?si=IAgbjkaAHGvwpqoQ)
+• 💻 GitHub: (https://github.com/luamods)
 
 💎 Премиум-услуги:
 • ⚡️ Срочная разработка (приоритетная очередь)
